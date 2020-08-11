@@ -49,6 +49,7 @@ public class Member_DAO {
 			pstmt.setString(8, bean.getTel());
 			pstmt.setString(9, bean.getMtel());
 			pstmt.executeUpdate();
+			System.out.println("d=OKMAN");
 			return 1;
 		} catch (Exception e) {
 			e.printStackTrace();
