@@ -30,6 +30,7 @@
 <div id="wrap">
 	<!-- 헤더파일들어가는 곳 -->
 	<header>
+	sadsadsadsadsadsa
 		<div id="login">
 			<a href="member/login.jsp">login</a> | 
 			<a href="member/join.jsp">join</a>
